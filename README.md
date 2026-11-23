@@ -1,4 +1,4 @@
-# Aurore Player
+# Aurore Player　for Norrsken Linux
 
 Linux 向けの音声プレーヤーです。Rust（iced + rodio）で書かれています。
 
