@@ -43,7 +43,7 @@ cargo build --release --locked
 
 ## パッケージ化（makepkg）
 
-同梱の `PKGBUILD` を使うと、Arch のパッケージとして入れられます。
+同梱の `PKGBUILD` を使うと、Arch のパッケージとして入れられます。　Norrskenと組み合わせよう
 
 ```bash
 makepkg -si
